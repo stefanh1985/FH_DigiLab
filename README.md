@@ -4,15 +4,18 @@
 Herzlich willkommen im Digi Lab!
 
 Das Digi Lab ist ein kreativer Raum, in dem du innovative digitale Projekte entdecken, entwickeln und umsetzen kannst. Hier hast du die Möglichkeit, mit modernster Technologie zu experimentieren, deine digitalen Fähigkeiten zu erweitern und gemeinsam mit anderen an spannenden Ideen zu arbeiten.
+Der Kurs teilt sich in verschiedene Teilaspekte🧮 
+1. **Anleitungen für Materialien** (Hier wreden Fragen geklärt, wiewie richte ich am idealsten eine Kammera aus)
+2. **Anleitungen & Ideen** (hier werden verschiedene digitale Tools, wie Videoprogramme bspw. OBS dargestellt und hinweise gegeben, wie diese auch einen Mehrwert in Lehr-Lernsettings darstellen können)
+3. **Tools zu** (hier werden kleiner Tools vorgestellt, die den Lehrarbeitsalltag erleichtern)
 
-Der Kurs ist so unterteilt, dass zunächst Anleitungen zu Materialien erfolgen, z.B. wie richte ich am idealsten eine Kammera aus.
-Anknüpfend daran gbt es Anleitungen & Ideen zu Tools. Hier werden verschiedene digitale Tools, wie Videoprogramme bspw. OBS dargestellt und hinweise gegeben, wie diese auch einen Mehrwert in Lehr-Lernsettings darstellen können.
+
 
  Bitte nimm dir einen Moment Zeit, um diese sorgfältig zu lesen und zu beachten. Sie sind entscheidend, um eine produktive und angenehme Umgebung für alle zu gewährleisten.
 
 Viel Spaß und Erfolg im Digi Lab!
 
-# Anleitungen für Materialien
+# 1. Anleitungen für Materialien
 Im Folgenden findest du Anleitungen zu den verschiedenen Gegenständen im DigiLab, die dir helfen sollen, die Geräte selbständig bedienen zu können.
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/HZrx8kjIA7lyeTqXVM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/MicrosoftCloud-check-msbuild-microsoft-build-HZrx8kjIA7lyeTqXVM">via GIPHY</a></p>
 
@@ -27,7 +30,7 @@ Im Folgenden findest du Anleitungen zu den verschiedenen Gegenständen im DigiLa
 
 
 
-# Anleitungen & Ideen für Tools
+# 2. Anleitungen & Ideen für Tools
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/l2Je0ZdFV02q7wncc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-16-the-simpsons-16x2-l2Je0ZdFV02q7wncc">via GIPHY</a></p>
 
 ## Audiotools
@@ -143,8 +146,6 @@ Weitere Ressourcen und Anleitungen zu Audacity finden Sie auf der offiziellen We
 </details>
 
 
-
-
 ## Videotools
 <div style="width:100%;height:0;padding-bottom:124%;position:relative;"><iframe src="https://giphy.com/embed/3o6gE8BpHT8gVtb7Y4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/retro-vhs-back-to-3o6gE8BpHT8gVtb7Y4">via GIPHY</a></p>
 
@@ -235,7 +236,7 @@ OBS Studio, kurz für Open Broadcaster Software, ist ein vielseitiges Tool für 
 
 <div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/WoWm8YzFQJg5i" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cartoons-comics-sea-reading-WoWm8YzFQJg5i">via GIPHY</a></p>
 
-### 🧑‍🦱Nutzer*innenperspektive
+### 🧑‍🦱Nutzer*innenperspektive (schriftlich)
 Es existieren unterschiedliche Zugangswege zu schriftlichen Anleitungen bezüglich OBS. 
 
 **Kurzanleitung**
@@ -345,3 +346,28 @@ Alles befindet sich immer im Wandel, dies gilt insbesondere für Updates von Sof
 >stefan.hierholzer@paedagogika.com
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/KnK190zp5alz2wlRxU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/transition-chang-change-management-KnK190zp5alz2wlRxU">via GIPHY</a></p>
+
+
+# 3. Tools zu....
+In dieser Rubrik werden kleiner Tools dargestellt, die keine größere Einarbeitung bedürfen und in der Regel auch selbsterklärend sind. Diese Tools wiederum sind nach verschiedenen Einsatzzwecken unterteilt.
+
+## Tools zum Aktivieren
+
+## Tools zur Prozesstsrukturierung
+
+## Tools zur Ideensammlung
+
+## Tools zur Inhaltsteilung
+
+## Tools zur Kollaboration
+
+## Tools zur Lernstandserhebung
+
+## Tools zur Meinung erfagen und Feedback geben
+
+## Tools zur Mindmaperstellung
+
+## Tools zur Notiz- und Arbeitsblatterstellung
+
+
+
