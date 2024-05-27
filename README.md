@@ -30,25 +30,140 @@ Im Folgenden findest du Anleitungen zu den verschiedenen Gegenständen im DigiLa
 # Anleitungen & Ideen für Tools
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/l2Je0ZdFV02q7wncc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-16-the-simpsons-16x2-l2Je0ZdFV02q7wncc">via GIPHY</a></p>
 
+## Audiotools
+<div style="width:100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/DsT6zmgNGqRlHMMVQP/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
+
+### Audacity
+
+![Audacity-Logo](https://upload.wikimedia.org/wikipedia/commons/f/f6/Audacity_Logo.svg)
+
+Audacity ist ein leistungsstarkes, kostenloses Open-Source-Programm zur Audiobearbeitung, das auf verschiedenen Betriebssystemen wie Windows, macOS und Linux läuft. Es ist besonders nützlich für Lehrende und Lernende an Fachhochschulen, die Audioaufnahmen erstellen, bearbeiten und optimieren möchten.
+
+Mit Audacity kannst du:
+
+- **Aufnehmen**: Einfach Audioinhalte über ein Mikrofon oder die interne Soundkarte deines Computers aufnehmen.
+- **Bearbeiten**: Schnitte, Kopieren und Einfügen von Audioausschnitten sowie das Hinzufügen von Effekten wie Echo, Verstärkung und Rauschunterdrückung.
+- **Mehrspurprojekte**: Arbeiten mit mehreren Audiotracks gleichzeitig, ideal für die Erstellung komplexer Audioinhalte wie Podcasts oder Hörspiele.
+- **Exportieren**: Speichern deiner bearbeiteten Audio-Dateien in verschiedenen Formaten wie MP3, WAV oder Ogg Vorbis.
+
+Audacity ist intuitiv zu bedienen und bietet umfangreiche Funktionen, die sowohl für Einsteiger als auch für fortgeschrittene Nutzer geeignet sind. Es ist ein ideales Werkzeug für die Erstellung von Lehrmaterialien, Podcasts, Interviews und anderen audiobasierten Projekten in der Hochschulbildung.
+
+#### 🧑‍🏫 Wozu wird es in der Lehre genutzt?
+1. Erstellung von Lehrmaterialien
+
+    Aufnahme von Vorlesungen und Tutorials: Lehrende können ihre Vorlesungen und Tutorials aufnehmen und als Audio-Podcasts bereitstellen. Dies ermöglicht den Lernenden, die Inhalte nach Bedarf anzuhören und sich intensiver mit dem Stoff auseinanderzusetzen.
+    Erstellen von Hörbeispielen: Audacity kann verwendet werden, um Hörbeispiele zu erstellen, die komplexe Konzepte oder historische Reden veranschaulichen. Diese Beispiele können den Unterricht bereichern und das Verständnis der Lernenden verbessern.
+
+2. Förderung der aktiven Teilnahme der Lernenden
+
+    Erstellung eigener Audioprojekte: Lernende können mit Audacity eigene Audioprojekte erstellen, z. B. Podcasts, Hörspiele oder Interviews. Dies fördert nicht nur technologische Fähigkeiten, sondern auch Kreativität und kommunikative Kompetenzen.
+    Sprachaufnahmen für Sprachkurse: In Sprachkursen können Lernende ihre Aussprache und Sprachfertigkeiten aufnehmen und analysieren. Lehrende können diese Aufnahmen bewerten und gezieltes Feedback geben.
+
+3. Feedback und Reflexion
+
+    Audiobasiertes Feedback: Lehrende können individuelles Feedback als Audiodatei aufnehmen und den Lernenden zur Verfügung stellen. Dies kann persönlicher und effektiver sein als schriftliches Feedback.
+    Selbstreflexion der Lernenden: Lernende können ihre eigenen Beiträge und Präsentationen aufnehmen, um ihre Leistung zu reflektieren und Verbesserungsmöglichkeiten zu erkennen.
+
+4. Integration in Multimedia-Projekte
+
+    Kombination von Audio und Video: Audacity kann zur Bearbeitung von Audio für Videoprojekte genutzt werden. Lernende können qualitativ hochwertige Audiotracks für ihre Videos erstellen und so ihre Multimedia-Fähigkeiten erweitern.
+    Soundeffekte und Musik: Lernende können Soundeffekte und Musik hinzufügen, um ihre Projekte interessanter und professioneller zu gestalten. Audacity bietet eine Vielzahl von Werkzeugen zur Manipulation von Audio, die den kreativen Prozess unterstützen.
+
+5. Forschung und Analyse
+
+    Sprachanalyse: In linguistischen oder psychologischen Studien können Lernende und Forschende Audacity zur Analyse von Sprachmustern und Akustik verwenden.
+    Feldforschung: Bei Feldstudien können Lernende Interviews und Umgebungsgeräusche aufnehmen, um sie später zu analysieren und in ihre Forschungsarbeiten einzubinden.
+
+Vorteile von Audacity in der Lehre
+
+    Kostenlos und Open Source: Audacity ist frei verfügbar, was es zu einer kostengünstigen Lösung für Bildungseinrichtungen macht.
+    Benutzerfreundlichkeit: Die intuitive Benutzeroberfläche erleichtert den Einstieg, auch für diejenigen, die wenig Erfahrung mit Audiobearbeitung haben.
+    Vielseitigkeit: Die umfangreichen Bearbeitungswerkzeuge und Effekte machen Audacity zu einem leistungsstarken Werkzeug für eine Vielzahl von Anwendungen.
+
+#### 📀 Wie bedienen ich das Programm (Videoanaleitungen+schriftliche Anleitug)
+
+<div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/ENL5sbMUYeT2L9lDop" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/snl-saturday-night-live-season-48-ENL5sbMUYeT2L9lDop">via GIPHY</a></p>
+
+Einde Differenzierte Einführg in Audacity und das Erstellen von Podcasting inklusive Storytelling findet sich in unserem [Moodle-Kurs](https://lms.paedagogika.com/enrol/instances.php?id=85), indem nicht nur das Programm alleine erklärt wird, sondern auch wie in Lehr-Lernsettings damit umgegangen werden kann. Bitte als Gast anmelden. Das passwort bei stefan.hierholzer@paedagogik.com erfragen.
+
+
+#### ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+
+
+<details>
+<summary>1. Was ist Audacity?</summary>
+Audacity ist eine kostenlose, Open-Source-Audio-Software, die für die Aufnahme und Bearbeitung von Audio-Dateien verwendet wird. Es ist für verschiedene Betriebssysteme wie Windows, macOS und Linux verfügbar.
+</details>
+
+<details>
+<summary>2. Wie kann ich Audacity installieren?</summary>
+Um Audacity zu installieren, besuchen Sie die offizielle Website (https://www.audacityteam.org/), laden Sie die entsprechende Version für Ihr Betriebssystem herunter und folgen Sie den Installationsanweisungen.
+</details>
+
+<details>
+<summary>3. Wie nehme ich Audio mit Audacity auf?</summary>
+Um Audio mit Audacity aufzunehmen, schließen Sie zunächst ein Mikrofon an Ihren Computer an. Öffnen Sie Audacity, wählen Sie Ihr Mikrofon als Aufnahmegerät aus und klicken Sie auf die rote Aufnahmetaste, um die Aufnahme zu starten.
+</details>
+
+<details>
+<summary>4. Wie kann ich eine Audiodatei in Audacity importieren?</summary>
+Um eine Audiodatei in Audacity zu importieren, klicken Sie auf „Datei“ > „Importieren“ > „Audio…“ und wählen Sie die Datei aus, die Sie importieren möchten. Sie wird in einem neuen Audacity-Projektfenster geöffnet.
+</details>
+
+<details>
+<summary>5. Wie kann ich eine Audiodatei bearbeiten?</summary>
+Um eine Audiodatei in Audacity zu bearbeiten, wählen Sie zunächst den gewünschten Abschnitt der Audiodatei aus. Sie können dann verschiedene Bearbeitungswerkzeuge verwenden, wie Ausschneiden, Kopieren, Einfügen, Lautstärke anpassen und Effekte hinzufügen.
+</details>
+
+<details>
+<summary>6. Wie speichere ich meine Arbeit in Audacity?</summary>
+Um Ihre Arbeit in Audacity zu speichern, klicken Sie auf „Datei“ > „Projekt speichern“, um das Projekt im Audacity-Format zu speichern. Wenn Sie Ihre Arbeit als Audiodatei exportieren möchten, klicken Sie auf „Datei“ > „Exportieren“ und wählen Sie das gewünschte Audioformat aus.
+</details>
+
+<details>
+<summary>7. Welche Dateiformate unterstützt Audacity?</summary>
+Audacity unterstützt eine Vielzahl von Audioformaten, einschließlich WAV, AIFF, MP3, OGG und FLAC. Sie können zusätzliche Dateiformate durch die Installation von FFmpeg-Bibliotheken hinzufügen.
+</details>
+
+<details>
+<summary>8. Wie kann ich Effekte in Audacity anwenden?</summary>
+Um Effekte in Audacity anzuwenden, wählen Sie den gewünschten Abschnitt der Audiodatei aus, klicken Sie auf „Effekt“ im Menü und wählen Sie den gewünschten Effekt aus der Liste. Sie können Parameter anpassen und die Änderungen in Echtzeit anhören.
+</details>
+
+<details>
+<summary>9. Kann ich Audacity verwenden, um Podcasts zu erstellen?</summary>
+Ja, Audacity ist ein beliebtes Tool für die Erstellung und Bearbeitung von Podcasts. Sie können Audio aufnehmen, bearbeiten, verschiedene Spuren mischen und Effekte hinzufügen, um hochwertige Podcasts zu produzieren.
+</details>
+
+<details>
+<summary>10. Wo finde ich weitere Ressourcen und Anleitungen zu Audacity?</summary>
+Weitere Ressourcen und Anleitungen zu Audacity finden Sie auf der offiziellen Website (https://www.audacityteam.org/), im Benutzerhandbuch, in Online-Foren und auf Video-Tutorial-Plattformen wie YouTube.
+</details>
+
+
+
+
 ## Videotools
 <div style="width:100%;height:0;padding-bottom:124%;position:relative;"><iframe src="https://giphy.com/embed/3o6gE8BpHT8gVtb7Y4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/retro-vhs-back-to-3o6gE8BpHT8gVtb7Y4">via GIPHY</a></p>
 
-## OBS & Co
-### 📂 Was ist das für ein Programm?
+### OBS & Co
+#### 📂 Was ist das für ein Programm?
 
 ![OBS-Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Open_Broadcaster_Software_Logo.png/600px-Open_Broadcaster_Software_Logo.png)
 
 
 OBS, oder Open Broadcaster Software, ist ein leistungsfähiges, kostenloses und quelloffenes Programm zur Videoaufnahme und Live-Streaming. Es ermöglicht euch, verschiedene Medienquellen wie Kameras, Bildschirminhalte und Mikrofone zu kombinieren, um professionell aussehende Videos oder Live-Streams zu erstellen. Ihr könnt Szenen im Voraus einrichten, zwischen denen ihr während der Aufnahme oder des Streams wechseln könnt, um eure Inhalte dynamisch und interessant zu gestalten. OBS unterstützt auch Plugins und Erweiterungen, die die Funktionalität erweitern, wie z.B. verbesserte Audioverarbeitung oder zusätzliche Streaming-Plattformen. Die Software ist kompatibel mit gängigen Betriebssystemen wie Windows, macOS und Linux. Ein zentraler Vorteil von OBS ist seine Flexibilität; es lässt sich für einfache Projekte ebenso nutzen wie für komplexe Produktionen mit mehreren Kameras und Quellen. Die Community rund um OBS ist groß und hilfsbereit, bietet eine Vielzahl von Ressourcen, Tutorials und Foren, um neuen Nutzern den Einstieg zu erleichtern. Trotz seiner umfangreichen Funktionen ist OBS überraschend benutzerfreundlich, mit einer intuitiven Oberfläche, die Anpassungen und das Streaming erleichtert. Es ist eine ideale Wahl für Content-Ersteller, Lehrer, Gamer und jede Person, die Interesse daran hat, ihre Inhalte mit der Welt zu teilen. Abschließend ist OBS ein mächtiges Werkzeug in eurer digitalen Werkzeugkiste, das euch ermöglicht, eure Visionen mit geringem finanziellen Aufwand zu realisieren.
 
-### 🧑‍🏫 Wozu wird es in der Lehre genutzt?
+#### 🧑‍🏫 Wozu wird es in der Lehre genutzt?
 OBS Studio, kurz für Open Broadcaster Software, ist ein vielseitiges Tool für Dozierende und Studierende an Fachhochschulen, um Lehrinhalte und Präsentationen zu erstellen und zu teilen. Es ermöglicht das Aufnehmen und Streamen von Videos in hoher Qualität, was besonders nützlich für Online-Vorlesungen, Seminare oder Workshops ist. Dozierende können mit OBS ihre Bildschirme teilen, um Präsentationen oder Software-Demos live zu übertragen, während sie gleichzeitig Webcam-Aufnahmen von sich integrieren, um die Interaktion zu personalisieren. Studierende können OBS nutzen, um ihre Projektpräsentationen aufzunehmen oder Gruppenarbeiten zu streamen, was die Zusammenarbeit und den Austausch von Ideen fördert. Das Programm unterstützt auch das Einbinden von verschiedenen Medienquellen wie Bilder und Videos, was die Gestaltung von lehrreichen und interaktiven Inhalten erleichtert. Dank der Möglichkeit, Szenen im Voraus zu erstellen, können Nutzer*innen nahtlos zwischen verschiedenen Inhalten wechseln, was die Dynamik der Präsentation erhöht. OBS ist kostenlos und open-source, was es zu einer zugänglichen Option für alle Mitglieder der Fachhochschulgemeinschaft macht. Die Software bietet zudem eine Reihe von Erweiterungen und Plugins, mit denen die Funktionalität je nach Bedarf angepasst werden kann. Um mit OBS zu beginnen, ist lediglich eine kurze Einarbeitungszeit erforderlich, nach der Dozierende und Studierende in der Lage sind, professionell aussehende Inhalte zu erstellen. Abschließend fördert OBS die digitale Kompetenz und unterstützt innovative Lehr- und Lernmethoden an Fachhochschulen.
 
-### 📀 Wie bedienen ich das Programm (Videoanaleitungen)
+#### 📀 Wie bedienen ich das Programm (Videoanaleitungen)
 
 <div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/ENL5sbMUYeT2L9lDop" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/snl-saturday-night-live-season-48-ENL5sbMUYeT2L9lDop">via GIPHY</a></p>
 
-### 🧑‍🦱Nutzer*innenperspektive
+#### 🧑‍🦱Nutzer*innenperspektive
 
 **Kurzanleitung in 20 Min.**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXm6XKVV6kI?si=6vLvHw6hVq4uq-y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -116,7 +231,7 @@ OBS Studio, kurz für Open Broadcaster Software, ist ein vielseitiges Tool für 
 
 
 
-### 📖 Wie bedienen ich das Programm (schriftliche Anleitung) 
+#### 📖 Wie bedienen ich das Programm (schriftliche Anleitung) 
 
 <div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/WoWm8YzFQJg5i" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cartoons-comics-sea-reading-WoWm8YzFQJg5i">via GIPHY</a></p>
 
@@ -137,7 +252,7 @@ https://www.uni-goettingen.de/de/document/download/01cdc2dcea864b4edafce8fa1e452
 
 
 
-### ❓FAQ 
+#### ❓FAQ 
 <div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
 
 
@@ -221,9 +336,10 @@ https://www.uni-goettingen.de/de/document/download/01cdc2dcea864b4edafce8fa1e452
 </details>
 ```
 
-### ❣️ Best Practice Beispiel(e)- Lernkurs zur Videoerstellung im Allgemeinen
+#### ❣️ Best Practice Beispiel(e)- Lernkurs zur Videoerstellung im Allgemeinen
 Einen Allgemeinen Einblick in die Erarbeitung von Lehrvideos im Kontext der Lehre bieten unsere Moodle-Kurse an, die [hier](https://lms.paedagogika.com/course/view.php?id=84) zu finden sind. Bitte klicke auf 'Als Gast anmelden'. Dass Kennwort erfragst du bei stefan.hierholzer@paedagogika.com
-### 📈 Alles ist im Wandel
+
+#### 📈 Alles ist im Wandel
 Alles befindet sich immer im Wandel, dies gilt insbesondere für Updates von Software. Ist dir ein Fehler aufgefallen oder du hast etwas was sich verndert hat und dies soll eingearbeitet werden- Toll!! Dann melde dich bitte bei:
 
 >stefan.hierholzer@paedagogika.com
