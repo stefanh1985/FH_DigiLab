@@ -348,18 +348,283 @@ Alles befindet sich immer im Wandel, dies gilt insbesondere für Updates von Sof
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/KnK190zp5alz2wlRxU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/transition-chang-change-management-KnK190zp5alz2wlRxU">via GIPHY</a></p>
 
 
+## Daten online verwalten mittels datenschutzkonforme Cloud Cryptpaed🖥
+Gerade im schulischen Kontext stehen häufig keine Möglichkeiten zur Datenschutzkonformen 
+### 📂 Was ist das für ein Programm?
+
+![Cryptpaed Logo](https://xwiki.com/fr/download/societe/CryptPad/WebHome/CryptPad-Logo-vertical.svg)
+Neben Google Drive oder OneDrive, die in ihren Grundstrukturen kostenfrei sind, existieren auch [DSGVO](https://dsgvo-gesetz.de/)-konforme [Clouds](https://www.ionos.de/digitalguide/server/knowhow/was-ist-eine-cloud/). Im Gegensatz zu Google oder Microsoft erhebt die DSGVO-konforme Cloud  keine Daten.
+
+Cryptpad ist ein sicheres, datenschutzfreundliches Online-Tool, mit dem du gemeinsam mit anderen an Dokumenten, Tabellen und Präsentationen arbeiten kannst. Alles, was du erstellst, wird automatisch verschlüsselt, sodass nur du und die Personen, mit denen du den Link teilst, auf die Inhalte zugreifen können. Es ist einfach zu nutzen und erfordert keine technischen Vorkenntnisse.
+
+
+
+### 🧑‍🏫 Wozu wird es in der Lehre genutzt?
+CryptPad ist ein kollaboratives Online-Tool, das im schulischen Kontext hervorragend genutzt werden kann. Es ermöglicht Lehrkräften und Studierenden, gemeinsam an Dokumenten zu arbeiten, ohne dass technische Vorkenntnisse erforderlich sind. Hier sind einige Möglichkeiten, wie CryptPad im schulischen Umfeld eingesetzt werden kann:
+Was ist CryptPad?
+
+CryptPad ist eine datenschutzfreundliche Plattform, die es ermöglicht, in Echtzeit gemeinsam an Dokumenten, Tabellen, Präsentationen und vielem mehr zu arbeiten. Ein besonderer Vorteil von CryptPad ist die Ende-zu-Ende-Verschlüsselung, die sicherstellt, dass nur die Personen, die Zugang zum Dokument haben, dessen Inhalt sehen können.
+Einsatzmöglichkeiten im schulischen Kontext
+
+    Gemeinsame Notizen und Dokumente:
+        Lehrkräfte und Studierende können gemeinsam an Textdokumenten arbeiten, beispielsweise bei der Erstellung von Referaten, Projektdokumentationen oder Zusammenfassungen von Unterrichtseinheiten.
+        Dank der Echtzeitbearbeitung können alle Beteiligten gleichzeitig Änderungen vornehmen und sehen, was andere schreiben.
+
+    Gruppenarbeiten:
+        Studierende können in Gruppen arbeiten, indem sie gemeinsam Tabellenkalkulationen erstellen und bearbeiten. Dies ist nützlich für Projekte, bei denen Daten gesammelt und analysiert werden müssen.
+        Präsentationen können direkt im Browser erstellt und bearbeitet werden, was die Zusammenarbeit an Projekten erleichtert.
+
+    Aufgaben und Feedback:
+        Lehrkräfte können Aufgaben in CryptPad erstellen und mit den Studierenden teilen. Die Studierenden können ihre Antworten direkt im Dokument eingeben.
+        Lehrkräfte können Kommentare und Feedback direkt in die Dokumente schreiben, sodass Studierende sofort sehen, was verbessert werden kann.
+
+    Datenschutz und Sicherheit:
+        Da CryptPad Ende-zu-Ende-Verschlüsselung verwendet, sind die Daten der Studierenden sicher und nur für die vorgesehenen Empfänger sichtbar.
+        Es werden keine unnötigen Daten gesammelt, was den Datenschutzanforderungen im schulischen Bereich entspricht.
+
+Wie funktioniert CryptPad?
+
+    Registrierung und Anmeldung:
+        Die Nutzung von CryptPad erfordert keine aufwendige Registrierung. Nutzer*innen können sich einfach mit einer E-Mail-Adresse anmelden.
+
+    Erstellen und Teilen von Dokumenten:
+        Nach der Anmeldung können neue Dokumente, Tabellen oder Präsentationen erstellt werden.
+        Diese Dokumente können über einen Link mit anderen geteilt werden. Es ist auch möglich, verschiedene Zugriffsrechte (Lesen, Schreiben, Kommentieren) zu vergeben.
+
+    Gemeinsame Bearbeitung:
+        Alle, die den Link zum Dokument haben und die entsprechenden Rechte besitzen, können das Dokument in Echtzeit bearbeiten.
+        Änderungen werden automatisch gespeichert und sind sofort für alle sichtbar.
+
+Vorteile von CryptPad
+
+    Benutzerfreundlichkeit: Einfach zu bedienen, auch für diejenigen, die nicht technikaffin sind.
+    Sicherheit: Hohe Datenschutzstandards durch Ende-zu-Ende-Verschlüsselung.
+    Kollaboration: Echtzeit-Zusammenarbeit erleichtert Gruppenarbeiten und gemeinsames Lernen.
+    Flexibilität: Verschiedene Tools (Text, Tabellen, Präsentationen) in einer Plattform integriert.
+
+
+### 📀 Wie bedienen ich das Programm (schriftliche Anleitug)
+https://docs.cryptpad.org/de/user_guide/index.html 
+
+
+### 📀 Wie bedienen ich das Programm (Videoanaleitungen)
+
+<div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/ENL5sbMUYeT2L9lDop" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/snl-saturday-night-live-season-48-ENL5sbMUYeT2L9lDop">via GIPHY</a></p>
+
+Bitte Scroll nach dem ersten Video nach unten.
+<iframe src="https://app.Lumi.education/api/v1/run/gGZZIx/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
+
+
+
+### ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+
+
+<details>
+  <summary>Was ist CryptPad?</summary>
+  CryptPad ist eine kollaborative Online-Plattform, die es ermöglicht, in Echtzeit gemeinsam an Dokumenten, Tabellen, Präsentationen und anderen Dateien zu arbeiten. Es verwendet Ende-zu-Ende-Verschlüsselung, um die Daten der Nutzer*innen zu schützen.
+</details>
+
+<details>
+  <summary>Wie melde ich mich bei CryptPad an?</summary>
+  Die Anmeldung bei CryptPad ist einfach. Besuchen Sie die Website von CryptPad und klicken Sie auf "Registrieren". Geben Sie Ihre E-Mail-Adresse ein und folgen Sie den Anweisungen zur Erstellung eines Kontos.
+</details>
+
+<details>
+  <summary>Wie erstelle ich ein neues Dokument?</summary>
+  Nach der Anmeldung klicken Sie auf "Neues Pad" und wählen die Art des Dokuments aus, das Sie erstellen möchten (Text, Tabelle, Präsentation, etc.). Sie können sofort mit der Bearbeitung beginnen.
+</details>
+
+<details>
+  <summary>Wie teile ich ein Dokument mit anderen?</summary>
+  Jedes Dokument in CryptPad hat einen eigenen Link. Um ein Dokument zu teilen, kopieren Sie einfach den Link und senden ihn an die gewünschten Personen. Sie können auch die Zugriffsrechte (Lesen, Schreiben, Kommentieren) festlegen.
+</details>
+
+<details>
+  <summary>Wie funktioniert die gemeinsame Bearbeitung?</summary>
+  Personen, die den Link zum Dokument haben und die entsprechenden Rechte besitzen, können das Dokument gleichzeitig in Echtzeit bearbeiten. Alle Änderungen werden automatisch gespeichert und sind sofort für alle sichtbar.
+</details>
+
+<details>
+  <summary>Welche Sicherheitsmaßnahmen bietet CryptPad?</summary>
+  CryptPad verwendet Ende-zu-Ende-Verschlüsselung, was bedeutet, dass nur die Personen, die Zugang zum Dokument haben, dessen Inhalt sehen können. Es werden keine unnötigen Daten gesammelt, was den Datenschutzanforderungen entspricht.
+</details>
+
+<details>
+  <summary>Welche Arten von Dokumenten kann ich in CryptPad erstellen?</summary>
+  Mit CryptPad können Sie Textdokumente, Tabellenkalkulationen, Präsentationen, Kanban-Boards, Umfragen und mehr erstellen. Es bietet eine Vielzahl von Tools für unterschiedliche Anforderungen.
+</details>
+
+<details>
+  <summary>Kann ich CryptPad auch offline nutzen?</summary>
+  CryptPad ist eine webbasierte Anwendung und erfordert eine Internetverbindung, um Dokumente zu erstellen und zu bearbeiten. Es gibt derzeit keine Offline-Funktionalität.
+</details>
+
+<details>
+  <summary>Wie viel kostet die Nutzung von CryptPad?</summary>
+  CryptPad bietet eine kostenfreie Basisversion an. Für erweiterte Funktionen und mehr Speicherplatz gibt es kostenpflichtige Abomodelle.
+</details>
+
+<details>
+  <summary>Wo finde ich weitere Hilfe und Support?</summary>
+  Auf der CryptPad-Website gibt es eine umfangreiche Dokumentation sowie ein Benutzerforum, in dem Sie Fragen stellen und Unterstützung von der Community erhalten können.
+</details>
+
+
+
+
 # 3. Tools zu....
 In dieser Rubrik werden kleiner Tools dargestellt, die keine größere Einarbeitung bedürfen und in der Regel auch selbsterklärend sind. Diese Tools wiederum sind nach verschiedenen Einsatzzwecken unterteilt.
 
 ## Tools zum Aktivieren
 
+[Mindwendel](https://idea.kits.blog/)
+Aktivieren, Ideen sammeln, kollaboratives Arbeiten
+kostenfrei, webbasiert
+
+Mit Mindwendel können Ideen zu einem gemeinsamen Thema oder einer Fragestellung schnell und ohne Anmeldung gesammelt werden. Die kollaborative Nutzung der Brainstorming-Oberfläche erfolgt über einen geteilten Link. Die Teilnehmenden können eigene Beiträge verfassen, sowie Beiträge von anderen liken, sortieren und farblich markieren. Achtung: Soll das Brainstorming bearbeitet oder anschließend …
+
+*Hinweise zum Datenschutz*
+Das Tool ist vom Niedersächsisches Landesinstitut für schulische Qualitätsentwicklung entwickelt worden. Der Serverstandort liegt somit in Deutschland, womit der Anbieter zur Einhaltung der DSGVO verpflichtet ist. Bei der Anwendung im Schulkontext sind die allgemeinen Angaben zur Nutzung digitaler Geräte und Anwendungen zu beachten.
+---
+
+
 ## Tools zur Prozesstsrukturierung
+[Trello](https://trello.com/de) ist eine Projektmanagement-Software, die Nutzer*innen ermöglicht, ihren Arbeitsprozess oder gemeinsame Projekte mithilfe von Boards, Listen und Karten zu strukturieren. Ein Board stellt dabei ein übergeordnetes Element dar, wie zum Beispiel ein Projekt. Innerhalb eines Boards können verschiedene Listen angelegt werden, die unterschiedliche Stadien des Arbeitsprozesses oder Themenschwerpunkte repräsentieren. Die Listen enthalten Karten, auf denen Links, Bilder, PDF-Dateien oder Checklisten integriert werden können. Boards können sowohl für das Selbstmanagement als auch zur Zusammenarbeit mit anderen Nutzer*innen verwendet werden.
+
+Info:
+
+- webbasiert
+- appbasiert: iOS, iPadOS, Android
+- kostenfreie Basisversion, erweiterte Funktionen im kostenpflichtigen Abomodell
+- Registrierung: E-Mail, Google-Account, Microsoft-Konto, Apple-ID (Lehrenden und Lernenden)
+
+
+*Hinweise zum Datenschutz*
+
+Der Serverstandort befindet sich außerhalb Europas. Die Nutzung von Trello zur Bereitstellung von Inhalten und Links kann aus der Sicht von Schüler*innen ohne Registrierung erfolgen. Wenn Schüler*innen jedoch eigene Inhalte erstellen möchten, müssen sie sich registrieren und personenbezogene Daten preisgeben. Im Schulkontext sollte daher die Einwilligung der Eltern eingeholt, nur Accounts mit anonymisierten Daten erstellt und keine sensiblen Informationen hochgeladen werden.
+
+
 
 ## Tools zur Ideensammlung
+[PINGO](https://trypingo.com/de/) ist ein interaktives Quiz- und Umfrage-Tool, das die Kommunikation mit Lernenden, insbesondere in großen Veranstaltungen wie Vorlesungen, verbessert. Es ermöglicht den Lernenden, direkt Fragen an den/die Vortragende*n zu stellen. Lehrende können das Tool nutzen, um eigene Fragen für den Unterricht oder Lehrveranstaltungen vorzubereiten. Dadurch können Umfragen erstellt werden, an denen die Lernenden mit mobilen Endgeräten teilnehmen und sofort Feedback zu ihrem Lernfortschritt erhalten.
 
-## Tools zur Inhaltsteilung
+Info:
+
+    Web-basiert
+    App-basiert: iOS
+    Kostenfrei
+    Registrierung: E-Mail (Lehrkräfte)
+  
+*Hinweise zum Datenschutz*
+
+Die Website erhebt und speichert personenbezogene Daten bei der Registrierung. Bei der Anwendung im schulischen Kontext sind die allgemeinen Richtlinien zur Nutzung digitaler Geräte und Anwendungen zu beachten.
+---
+
+[Plickers](https://get.plickers.com/) ist ein Tool für digitale Quizrunden, bei dem nur die Lehrkraft ein digitales Endgerät benötigt. Über ein Lehrendenkonto werden eine Klassenliste mit den Namen der Schüler*innen sowie ein Quiz mit Multiple-Choice-Fragen erstellt. Die Fragen werden per Beamer an die Wand projiziert. Die Lernenden geben ihre Antworten über einen ausgedruckten Barcode ab, dessen vier Seiten die Antwortmöglichkeiten (a, b, c, d) darstellen. Die Lehrkraft scannt die Barcodes mit einem mobilen Endgerät ein, wodurch die Antworten erkannt und den jeweiligen Lernenden zugeordnet werden. Eine detaillierte Auswertung erfolgt automatisch in der App.
+
+Info:
+
+    webbasiert
+    appbasiert: iOS, iPadOS, Android
+    kostenfreie Basisversion für Lehrende (Sets mit bis zu 5 Fragen), erweiterte Funktionen im kostenpflichtigen Abomodell (PlickersPro)
+    Registrierung: E-Mail, Google-Account, Apple-ID (Lehrer*innen)
+  
+
+*Hinweise zum Datenschutz*
+
+Der Serverstandort liegt in den USA, jedoch erfordert die Toolnutzung aus Schülerinnensicht keine Registrierung mit personenbezogenen Daten. Bei der Erstellung von Klassenlisten sollte unbedingt darauf geachtet werden, dass Pseudonyme für die Schülerinnen verwendet werden. Außerdem sollte darauf geachtet werden, dass die Gesichter der Schüler*innen beim Einscannen der QR-Codes verdeckt bleiben. Ansonsten sind bei der Anwendung im Schulkontext die allgemeinen Angaben zur Nutzung digitaler Geräte und Anwendungen zu beachten.
+---
+[ONCOO](https://www.oncoo.de/), entwickelt am Fachseminar für Informatik in Osnabrück, bietet einen digitalen Werkzeugkasten mit bekannten Unterrichtsmethoden aus dem kooperativen Lernen. Zu den verfügbaren Werkzeugen gehören eine digitale Kartenabfrage, ein Helfersystem, ein Lerntempoduett, eine Placemat und eine Zielscheibe zur Meinungsumfrage. Lernende können über einen Code auf das Online-Tool zugreifen, ihre Antworten abgeben, zusammenarbeiten oder sich gegenseitig unterstützen. Die Lehrkraft erhält die Eingaben in Echtzeit visualisiert und kann diese zur Veranschaulichung und Strukturierung weiter bearbeiten.
+
+Info:
+
+    webbasiert
+    Open Source
+    kostenfrei
+    keine Registrierung notwendig
+   
+
+*Hinweise zum Datenschutz*
+
+Der Serverstandort befindet sich in Deutschland, daher unterliegt Oncoo der DSGVO. Es werden keine personenbezogenen Daten erhoben. Die Nutzung erfolgt pseudonymisiert und somit so anonym wie technisch möglic
+---
+[AnswerGarden](https://answergarden.ch/) ist ein Tool zum schnellen und anonymen Sammeln von kurzen Antworten, Ideen und Rückmeldungen. Die eingegebenen Begriffe erscheinen in Echtzeit als Wortwolke. Die Form der zulässigen Antworten (Mehrfachnennung, einmalige Nennung etc.) kann in den Einstellungen festgelegt werden. Lernende gelangen über einen angegebenen Link oder QR-Code zur Sammlung. Die Wortwolke kann anschließend in Tools wie Tagxedo oder Wordle weiterbearbeitet werden.
+
+Info
+
+    webbasiert
+    appbasiert: iPadOS (nur zur Teilnahme)
+    kostenfrei (Webversion), kostenpflichtig (Appversion für das iPad)
+    keine Registrierung notwendig
+  
+*Hinweise zum Datenschutz*
+
+AnswerGarden ist ein Angebot des niederländischen Unternehmens CreativeHeroes. Der Serverstandort liegt zwar außerhalb Europas, jedoch erfordert das Tool keine Registrierung mit personenbezogenen Daten. Bei der Anwendung im Schulkontext sind die allgemeinen Richtlinien zur Nutzung digitaler Geräte und Anwendungen zu beachten.
+---
+[TaskCards](https://www.taskcards.de/#/home/start) ist eine Onlineplattform zur Erstellung digitaler Pinnwände. Ähnlich wie bei Padlet können TaskCards Texte, Bilder, Audioaufnahmen, Links und verschiedene Dateianhänge enthalten. Pinnwände können privat bleiben oder über einen Link mit Schüler*innen geteilt werden, wobei unterschiedliche Nutzungsrechte festgelegt werden können (Leserecht, Bearbeitungsrecht für eigene Notizen, Bearbeitungsrecht für fremde Notizen usw.).
+
+*Datenschutzhinweise*
+
+Da der Serverstandort in Deutschland liegt, ist der Anbieter zur Einhaltung der DSGVO verpflichtet. TaskCards erfasst grundsätzlich nur technisch notwendige Daten und sammelt keine weiteren Daten von Schüler*innen und Besucher*innen einer Pinnwand. Im schulischen Kontext sollten die allgemeinen Richtlinien zur Nutzung digitaler Geräte und Anwendungen beachtet werden.
+
+Info
+
+- webbasiert
+- Kostenfreie Basisversion (2 Pinnwände kostenlos), erweiterte Funktionen im kostenpflichtigen Abomodell (seit 02/2022)
+- Registrierung: E-Mail (für Lehrer*innen, bei kostenfreier Schullizenz mit bis zu 20 Accounts)
+- 
+---
+
+
 
 ## Tools zur Kollaboration
+
+Mit [QR-Code-Monkey](https://www.qrcode-monkey.com/de) lassen sich QR-Codes schnell und einfach erstellen, die einen unkomplizierten Zugriff auf Websites ermöglichen. Dazu gibt man die URL ein und wählt die gewünschte Darstellung der QR-Codes aus. Diese können dann mit der Smartphone-Kamera gescannt werden, um die entsprechende Information zu öffnen. Zum Scannen des QR-Codes ist eventuell eine App oder ein kompatibler Browser (z.B. Chrome) auf dem Smartphone erforderlich. So lassen sich beispielsweise Online-Inhalte in Präsentationen oder Stationsarbeiten einbinden. Auch Textbausteine können in QR-Codes eingebunden werden, um auf Aufgabenlösungen hinzuweisen.
+
+Info:
+
+    Webbasierte Anwendung
+    Kostenfreie Basisversion (unbegrenzt und für jeden Zweck erlaubt), erweiterte Funktionen (PDF, Appstore etc.) im kostenpflichtigen Abomodell
+    Registrierung: E-Mail, Google-Account
+  
+
+*Hinweise zum Datenschutz*
+
+Der Serverstandort liegt in Deutschland und unterliegt somit den Bestimmungen der DSGVO. Bei der Anwendung im Schulkontext sind die allgemeinen Vorgaben zur Nutzung digitaler Geräte und Anwendungen zu beachten.
+---
+Mit [ZUMpad](https://zumpad.zum.de/) können Etherpads erstellt werden, das sind einfache digitale Texteditoren. In einem Etherpad können Lernende gemeinsam Notizen anfertigen, Texte erstellen und überarbeiten. Verschiedene Farben zeigen an, welcher Nutzer oder welche Nutzerin Textabschnitte im Etherpad erstellt oder geändert hat. Änderungen im Text können über die Versionshistorie nachvollzogen werden. Außerdem kann das Etherpad für gemeinsames Brainstorming oder Feedbackprozesse bei Gruppenarbeiten genutzt werden. Ein integrierter Chat ermöglicht die Kommunikation der Nutzer*innen. Da Etherpads nach längerer Inaktivität von ZUMpad gelöscht werden, sollten Zwischen- oder Endergebnisse zeitnah gesichert oder exportiert werden. Das Etherpad ist nicht für die dauerhafte Speicherung geeignet.
+
+Informationen:
+
+    webbasiert
+    Open Source
+    kostenfrei
+    keine Registrierung notwendig
+   
+
+*Hinweise zum Datenschutz*
+
+Der Serverstandort ist in Deutschland, somit unterliegt ZUMpad der DSGVO. Da erstellte Etherpads keiner Zugriffsbeschränkung unterliegen und grundsätzlich auch von fremden Nutzer*innen aufgerufen werden können, sollten keine sensiblen Daten geteilt werden. Ansonsten sind bei der Anwendung im Schulkontext die allgemeinen Angaben zur Nutzung digitaler Geräte und Anwendungen zu beachten.
+---
+[ONCOO](https://www.oncoo.de/), entwickelt am Fachseminar für Informatik in Osnabrück, bietet einen digitalen Werkzeugkasten für bekannte Unterrichtsmethoden aus dem kooperativen Lernen. Zu den angebotenen Tools gehören eine digitale Kartenabfrage, ein Helfersystem, ein Lerntempoduett, eine Placemat und eine Zielscheibe zur Meinungsumfrage. Lernende können über einen Code auf das Online-Tool zugreifen, dort Antworten abgeben, zusammenarbeiten oder sich gegenseitig unterstützen. Die Lehrkraft erhält die Eingaben in Echtzeit visualisiert und kann sie zur Veranschaulichung und Strukturierung weiterverarbeiten.
+
+Info
+
+    webbasiert
+    Open Source
+    kostenfrei
+    keine Registrierung notwendig
+   
+
+*Hinweise zum Datenschutz*
+
+Der Serverstandort ist in Deutschland, daher unterliegt ONCOO der DSGVO. Es werden keine personenbezogenen Daten erhoben. Die Nutzung erfolgt pseudonymisiert und damit so anonym wie technisch möglich.
+---
+
+
+
 
 ## Tools zur Lernstandserhebung
 
