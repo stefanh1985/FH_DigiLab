@@ -472,6 +472,310 @@ Bitte Scroll nach dem ersten Video nach unten.
 </details>
 
 
+## Lernspiele generieren - H5P 🎲
+ <div style="width:100%;height:0;padding-bottom:85%;position:relative;"><iframe src="https://giphy.com/embed/ZFA9INQe9nBKHgss05" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wwweDE-game-night-controller-ZFA9INQe9nBKHgss05">via GIPHY</a></p>
+
+
+> Im Bereich Lernspiele werden 3 verschiedene Tools differenzierter dargestellt
+>
+>1. H5P
+>
+>2. Learning Apps
+>
+>3. Twine
+
+---
+
+
+### 📂 Was ist das für ein Programm?
+
+![h5p Logo](https://upload.wikimedia.org/wikipedia/commons/9/9d/H5P_Logo.svg)
+Bei H5P handelt es sich um ein Open-Source-Produkt, mit dem interaktive (Lern-)Inhalte erstellt und verbreitet werden können. Der Vorteil von H5P ist, dass dies sowohl in Moodle integriert ist als auch unabhängig in Lumi generiert und verwendet werden kann. Auf dieser Seite wird zunächst Lumi vorgestellt, anschließend die H5P-Tools und dann gezeigt, wie H5P in Moodle integriert ist.
+
+!?[H5P Lumi Anmelden und Material teilen](https://www.youtube.com/watch?v=pICMre3cKNU)
+
+
+### 🧑‍🏫 Wozu wird es in der Lehre genutzt?
+H5P ist ein Open-Source-Tool, das Lehrenden ermöglicht, interaktive Inhalte für den Unterricht zu erstellen. Es bietet eine Vielzahl von Möglichkeiten, um Lernmaterialien ansprechender und interaktiver zu gestalten. Hier sind einige Einsatzmöglichkeiten von H5P in der Lehre:
+
+
+   **Interaktive Videos**: Lehrende können Videos mit interaktiven Elementen wie Quizfragen oder zusätzlichen Informationen anreichern, die das Verständnis der Studierenden fördern.
+
+    **Quizze und Tests**: H5P ermöglicht es, verschiedene Arten von Quizfragen zu erstellen, die direkt im Lernmanagementsystem (LMS) eingebettet werden können. Dies hilft, das Wissen der Studierenden zu überprüfen.
+
+    **Interaktive Präsentationen**: Mit H5P können Präsentationen erstellt werden, die durch interaktive Elemente wie Klickpunkte, Hotspots und Fragen ergänzt werden.
+
+    **Spiele und Lernaktivitäten**: Es bietet verschiedene Tools zur Erstellung von Spielen und anderen Lernaktivitäten, die das Engagement der Studierenden erhöhen.
+
+**Gamification**
+
+Gamification bezeichnet den Einsatz von spieltypischen Elementen und Mechaniken in einem nicht-spielerischen Kontext, um das Engagement und die Motivation der Nutzer zu erhöhen. Beispiele für solche Elemente sind Punkte, Abzeichen, Ranglisten und Herausforderungen.
+H5P und Gamification in der Lehre
+
+Durch die Kombination von H5P und Gamification können Lehrende den Lernprozess für Studierende interessanter und motivierender gestalten. Hier sind einige Ansätze, wie dies umgesetzt werden kann:
+
+    **Punkte und Ranglisten**: Quizze und Tests, die mit H5P erstellt wurden, können Punkte vergeben und Ranglisten anzeigen, um einen Wettbewerb unter den Studierenden zu fördern.
+
+    **Abzeichen und Belohnungen**: Studierende können für das Abschließen von interaktiven Modulen oder das Erreichen bestimmter Punktzahlen Abzeichen erhalten, die ihre Fortschritte und Leistungen sichtbar machen.
+
+    **Interaktive Lernspiele**: Lehrende können Spiele entwickeln, die auf den Lerninhalten basieren und den Studierenden durch Herausforderungen und Rätsel ein tieferes Verständnis des Materials mitgeben.
+
+    **Sofortiges Feedback**: Durch die interaktiven Elemente von H5P erhalten Studierende sofortiges Feedback zu ihren Antworten, was den Lernprozess unterstützt und verbessert.
+
+Durch den Einsatz von H5P in Kombination mit Gamification können Lehrende die Lernumgebung dynamischer gestalten, was die Motivation und das Engagement der Studierenden erheblich steigern kann.
+
+### 📀 + 📖 Wie bedienen ich das Programm (Videoanaleitungen+schriftliche Anleitung)
+<div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/ENL5sbMUYeT2L9lDop" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/snl-saturday-night-live-season-48-ENL5sbMUYeT2L9lDop">via GIPHY</a></p>
+
+
+Dieser [Moodle-Selbstlernkurs](https://lms.paedagogika.com/course/view.php?id=86) beinhaltet sowohl Video als auch schriftliche Anleitungen. Bitte mittels Gast anmelden. Das Passwort unter stefan.hierholzer@paedagogika.com erfragen.
+
+
+
+### ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+
+
+<details>
+  <summary>Was ist H5P?</summary>
+  H5P ist ein Open-Source-Tool, das es ermöglicht, interaktive Lerninhalte wie Quizze, Videos und Präsentationen zu erstellen und in Lernmanagementsysteme (LMS) zu integrieren.
+</details>
+
+<details>
+  <summary>Welche Vorteile bietet H5P in der Lehre?</summary>
+  H5P bietet zahlreiche Vorteile, darunter:
+  - Erhöhung des Engagements der Studierenden durch interaktive Inhalte.
+  - Sofortiges Feedback, das den Lernprozess unterstützt.
+  - Einfache Integration in gängige LMS wie Moodle, Blackboard und Canvas.
+  - Vielseitige Einsatzmöglichkeiten wie interaktive Videos, Quizze, Präsentationen und Spiele.
+</details>
+
+<details>
+  <summary>Wie kann H5P zur Gamification eingesetzt werden?</summary>
+  H5P kann zur Gamification eingesetzt werden, indem man spielerische Elemente wie Punkte, Ranglisten, Abzeichen und interaktive Lernspiele integriert. Diese Elemente erhöhen die Motivation und das Engagement der Studierenden.
+</details>
+
+<details>
+  <summary>Welche Arten von interaktiven Inhalten kann man mit H5P erstellen?</summary>
+  Mit H5P können verschiedene Arten von interaktiven Inhalten erstellt werden, darunter:
+  - Interaktive Videos
+  - Quizze und Tests
+  - Präsentationen mit interaktiven Elementen
+  - Lernspiele
+  - Zeitachsen und Diagramme
+  - Virtuelle Touren
+</details>
+
+<details>
+  <summary>Wie integriere ich H5P in ein Lernmanagementsystem (LMS)?</summary>
+  Die Integration von H5P in ein LMS erfolgt in der Regel über Plugins oder externe Tools. Gängige LMS wie Moodle, Blackboard und Canvas bieten direkte Unterstützung oder Plugins für H5P.
+</details>
+
+<details>
+  <summary>Ist H5P kostenlos?</summary>
+  Ja, H5P ist eine Open-Source-Software und kann kostenlos verwendet werden. Es gibt jedoch zusätzliche Dienstleistungen und Hosting-Optionen, die kostenpflichtig sein können.
+</details>
+
+<details>
+  <summary>Wo finde ich Ressourcen und Anleitungen zu H5P?</summary>
+  Ressourcen und Anleitungen zu H5P finden Sie auf der offiziellen Website [h5p.org](https://h5p.org), in der Dokumentation und in Online-Foren. Es gibt auch zahlreiche Video-Tutorials und Community-Beiträge, die beim Einstieg helfen.
+</details>
+
+<details>
+  <summary>Kann ich H5P-Inhalte anpassen?</summary>
+  Ja, H5P bietet umfangreiche Anpassungsmöglichkeiten. Sie können sowohl das Aussehen als auch die Funktionalität der interaktiven Inhalte an Ihre Bedürfnisse anpassen.
+</details>
+
+<details>
+  <summary>Wie erhalte ich Support für H5P?</summary>
+  Support für H5P erhalten Sie über die offizielle Website, Community-Foren und durch die Teilnahme an Online-Kursen und Webinaren. Es gibt auch professionelle Dienstleistungen, die zusätzliche Unterstützung bieten.
+</details>
+
+
+### 📈 Alles ist im Wandel
+Alles befindet sich immer im Wandel, dies gilt insbesondere für Updates von Software. Ist dir ein Fehler aufgefallen oder du hast etwas was sich verndert hat und dies soll eingearbeitet werden- Toll!! Dann melde dich bitte bei:
+
+>stefan.hierholzer@paedagogika.com
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/KnK190zp5alz2wlRxU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/transition-chang-change-management-KnK190zp5alz2wlRxU">via GIPHY</a></p>
+
+## Lernspiele generieren - LearningApps.org 🎮
+
+### 📂 Was ist das für ein Programm?
+![LearningApps.org Logo](https://learningapps.org/style/logo.png)
+
+**Funktionen von Leraningapps.org**
+
+**LearningApps.org** ist ein kostenloses Online-Tool, das speziell für den Bildungsbereich entwickelt wurde. Es ermöglicht Lehrenden und Lernenden, interaktive und multimediale Lernbausteine zu erstellen und zu nutzen. Diese Lernbausteine können in den Unterricht integriert oder für selbstgesteuertes Lernen verwendet werden.
+
+- **Vielfältige Vorlagen:** LearningApps.org bietet eine breite Palette an Vorlagen für verschiedene Aufgabentypen, wie z.B. Zuordnungsaufgaben, Lückentexte, Multiple-Choice-Fragen, Kreuzworträtsel und viele mehr.
+- **Einfache Bedienung:** Die Plattform ist benutzerfreundlich gestaltet, sodass auch Personen ohne technische Vorkenntnisse schnell und einfach interaktive Übungen erstellen können.
+- **Multimediale Inhalte:** Nutzer können Texte, Bilder, Audiodateien und Videos in ihre Aufgaben einbinden, um die Lerninhalte ansprechender und vielseitiger zu gestalten.
+- **Kollaboratives Lernen:** Lehrende können ihre erstellten Apps mit anderen teilen und gemeinsam daran arbeiten, was den Austausch und die Zusammenarbeit fördert.
+
+**Vorteile von LearningApps.org**
+
+- **Flexibilität:** LearningApps.org ist webbasiert und somit von jedem internetfähigen Gerät aus zugänglich.
+- **Motivation:** Interaktive und spielerische Elemente steigern die Motivation und das Engagement der Lernenden.
+- **Individualisierung:** Aufgaben können an die individuellen Bedürfnisse und Fähigkeiten der Lernenden angepasst werden.
+
+
+
+### 🧑‍🏫 Wozu wird es in der Lehre genutzt?
+
+Learning Apps sind digitale Werkzeuge, die in der Hochschullehre vielfältig eingesetzt werden können, um den Lernprozess zu unterstützen und zu verbessern. Hier sind einige Anwendungsbeispiele:
+
+- **Interaktive Übungen**: Mit Learning Apps können Studierende interaktive Übungen durchführen, die das Verständnis von Lehrinhalten vertiefen. Beispiele hierfür sind Quizze, Lückentexte oder Zuordnungsaufgaben.
+
+- **Selbstkontrolle und Feedback**: Studierende haben die Möglichkeit, ihr Wissen selbst zu überprüfen und direktes Feedback zu erhalten. Dies hilft ihnen, ihre Stärken und Schwächen besser zu erkennen.
+
+- **Motivation und Engagement**: Durch spielerische Elemente und abwechslungsreiche Aufgaben werden Studierende motiviert, sich intensiver mit dem Lernstoff auseinanderzusetzen.
+
+- **Individuelles Lernen**: Learning Apps ermöglichen es, Lerninhalte an das individuelle Lerntempo und die Bedürfnisse der Studierenden anzupassen. Dies fördert ein effektives und selbstgesteuertes Lernen.
+
+- **Kollaboratives Lernen**: Manche Learning Apps bieten Funktionen für Gruppenarbeiten und gemeinsames Lernen, was den Austausch und die Zusammenarbeit zwischen den Studierenden fördert.
+
+- **Zugänglichkeit und Flexibilität**: Da Learning Apps oft plattformunabhängig und mobil verfügbar sind, können Studierende jederzeit und überall auf Lernmaterialien zugreifen.
+
+Durch den Einsatz von Learning Apps in der Lehre können sowohl Studierende als auch Lehrende von einer interaktiven und flexiblen Lernumgebung profitieren.
+
+
+
+### 📀 + 📖 Wie bedienen ich das Programm (Videoanaleitungen+schriftliche Anleitung)
+
+<div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/ENL5sbMUYeT2L9lDop" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/snl-saturday-night-live-season-48-ENL5sbMUYeT2L9lDop">via GIPHY</a></p>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ROqJDx2ybc?si=riMjw7EKeEMS0GVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Tutorial zum Selbstdurchklicken: https://learningapps.org/tutorial.php
+Tutorial in Form eines Learning Snacks: https://www.learningsnacks.de/share/26028/7bf21faa8314a981e5f88bef7eb13a0e0ac9b3e
+Steckbrief: https://digitallearninglab.de/tools/learningappsorg
+
+
+
+
+### ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+## LearningApps.org FAQ
+
+<details>
+<summary>Was ist LearningApps.org?</summary>
+LearningApps.org ist eine kostenlose Online-Plattform, die es ermöglicht, interaktive und multimediale Lernbausteine zu erstellen und zu nutzen. Sie richtet sich an Lehrende und Lernende im Bildungsbereich.
+</details>
+
+<details>
+<summary>Wie erstelle ich eine neue Lern-App?</summary>
+Um eine neue Lern-App zu erstellen, müssen Sie sich zunächst bei LearningApps.org anmelden. Danach können Sie aus einer Vielzahl von Vorlagen auswählen, die gewünschte Vorlage anpassen und mit Ihren eigenen Inhalten füllen.
+</details>
+
+<details>
+<summary>Welche Arten von Lern-Apps kann ich erstellen?</summary>
+Sie können verschiedene Arten von Lern-Apps erstellen, darunter Zuordnungsaufgaben, Lückentexte, Multiple-Choice-Fragen, Kreuzworträtsel, Paare zuordnen, Zahlenstrahl, Gruppierungen, Schätzungen und viele mehr.
+</details>
+
+<details>
+<summary>Kann ich multimediale Inhalte in meine Lern-Apps einfügen?</summary>
+Ja, Sie können Texte, Bilder, Audiodateien und Videos in Ihre Lern-Apps einfügen, um die Lerninhalte ansprechender und vielseitiger zu gestalten.
+</details>
+
+<details>
+<summary>Wie kann ich meine erstellten Lern-Apps teilen?</summary>
+Sie können Ihre erstellten Lern-Apps ganz einfach über einen Link teilen oder sie in Webseiten und Lernplattformen einbetten. Zudem können Sie sie mit anderen Lehrenden und Lernenden auf LearningApps.org teilen.
+</details>
+
+<details>
+<summary>Können mehrere Personen an einer Lern-App arbeiten?</summary>
+Ja, Sie können Ihre Lern-Apps mit anderen teilen und gemeinsam daran arbeiten. Dies fördert den Austausch und die Zusammenarbeit im Bildungsbereich.
+</details>
+
+<details>
+<summary>Ist LearningApps.org kostenlos?</summary>
+Ja, LearningApps.org ist vollständig kostenlos nutzbar.
+</details>
+
+<details>
+<summary>Benötige ich technische Vorkenntnisse, um LearningApps.org zu nutzen?</summary>
+Nein, LearningApps.org ist benutzerfreundlich gestaltet und erfordert keine speziellen technischen Vorkenntnisse. Sie können schnell und einfach interaktive Übungen erstellen.
+</details>
+
+<details>
+<summary>Wie kann ich auf LearningApps.org zugreifen?</summary>
+LearningApps.org ist webbasiert und kann von jedem internetfähigen Gerät aus aufgerufen werden. Besuchen Sie einfach die Website [LearningApps.org](https://learningapps.org).
+</details>
+
+<details>
+<summary>Kann ich meine Lern-Apps an die Bedürfnisse meiner Lernenden anpassen?</summary>
+Ja, Sie können Ihre Aufgaben an die individuellen Bedürfnisse und Fähigkeiten der Lernenden anpassen, um ein effektiveres Lernen zu ermöglichen.
+</details>
+
+
+
+
+### 📈 Alles ist im Wandel
+Alles befindet sich immer im Wandel, dies gilt insbesondere für Updates von Software. Ist dir ein Fehler aufgefallen oder du hast etwas was sich verndert hat und dies soll eingearbeitet werden- Toll!! Dann melde dich bitte bei:
+
+>stefan.hierholzer@paedagogika.com
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/KnK190zp5alz2wlRxU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/transition-chang-change-management-KnK190zp5alz2wlRxU">via GIPHY</a></p>
+
+
+
+
+
+
+# 📂 Was ist das für ein Programm?
+
+![Canva-Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_logo..png?20230702045656)
+
+
+
+# 🧑‍🏫 Wozu wird es in der Lehre genutzt?
+
+# 📀 Wie bedienen ich das Programm (Videoanaleitungen)
+
+<div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/ENL5sbMUYeT2L9lDop" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/snl-saturday-night-live-season-48-ENL5sbMUYeT2L9lDop">via GIPHY</a></p>
+
+## 🧑‍🦱Nutzer*innenperspektive
+
+
+# 📖 Wie bedienen ich das Programm (schriftliche Anleitung) 
+
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/WoWm8YzFQJg5i" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cartoons-comics-sea-reading-WoWm8YzFQJg5i">via GIPHY</a></p>
+
+## 🧑‍🦱Nutzer*innenperspektive
+
+
+## ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+
+
+
+
+# ❣️ Best Practice Beispiel(e)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wx8WU_h2BNU?si=RsLL_6Yhm21Kn8_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# 📈 Alles ist im Wandel
+Alles befindet sich immer im Wandel, dies gilt insbesondere für Updates von Software. Ist dir ein Fehler aufgefallen oder du hast etwas was sich verndert hat und dies soll eingearbeitet werden- Toll!! Dann melde dich bitte bei:
+
+>stefan.hierholzer@paedagogika.com
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/KnK190zp5alz2wlRxU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/transition-chang-change-management-KnK190zp5alz2wlRxU">via GIPHY</a></p>
+
+
+
+
+
+
+
+
+
+
 
 
 # 3. Tools zu....
