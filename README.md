@@ -660,7 +660,7 @@ Steckbrief: https://digitallearninglab.de/tools/learningappsorg
 ### ❓FAQ 
 <div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
 
-## LearningApps.org FAQ
+
 
 <details>
 <summary>Was ist LearningApps.org?</summary>
@@ -714,7 +714,6 @@ Ja, Sie können Ihre Aufgaben an die individuellen Bedürfnisse und Fähigkeiten
 
 
 
-
 ### 📈 Alles ist im Wandel
 Alles befindet sich immer im Wandel, dies gilt insbesondere für Updates von Software. Ist dir ein Fehler aufgefallen oder du hast etwas was sich verndert hat und dies soll eingearbeitet werden- Toll!! Dann melde dich bitte bei:
 
@@ -723,44 +722,160 @@ Alles befindet sich immer im Wandel, dies gilt insbesondere für Updates von Sof
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/KnK190zp5alz2wlRxU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/transition-chang-change-management-KnK190zp5alz2wlRxU">via GIPHY</a></p>
 
 
+## Lernspiele generieren - Twine(2) 🎮
+
+
+### 📂 Was ist das für ein Programm?
+
+![Twine Logo](https://twinery.org/icons/twine.svg)
+
+**Einführung in Twine**
+
+Twine ist ein einfach zu bedienendes Programm, mit dem man interaktive, nicht-lineare Geschichten erstellen kann. Es eignet sich besonders gut für Studierende und Lehrende, die ihre Inhalte auf kreative und ansprechende Weise präsentieren möchten, ohne tiefgehende Programmierkenntnisse zu benötigen.
+
+**Was ist Twine?**
+
+Twine ist ein Werkzeug zur Erstellung von interaktiven Geschichten, bei denen der Leser durch seine Entscheidungen den Verlauf der Geschichte beeinflussen kann. Die Geschichten werden in einer visuellen Umgebung erstellt, die an ein Flussdiagramm erinnert. Dies macht es leicht, den Überblick über verschiedene Verzweigungen und Pfade zu behalten.
+
+**Wichtige Merkmale von Twine**
+
+1. **Benutzerfreundlichkeit**: Twine hat eine intuitive Benutzeroberfläche, die das Erstellen und Verknüpfen von Textpassagen erleichtert.
+2. **Keine Programmierkenntnisse erforderlich**: Man kann einfache Geschichten ohne Programmierkenntnisse erstellen. Für komplexere Funktionen kann man jedoch HTML, CSS und JavaScript nutzen.
+3. **Vielseitigkeit**: Twine eignet sich nicht nur für Geschichten, sondern auch für interaktive Lehrmaterialien, Quizze und Simulationen.
+
+**Wie funktioniert Twine?**
+
+- **Erstellen von Passagen**: Jede Passage ist ein Textabschnitt, der Teil der Geschichte ist. Diese Passagen können miteinander verlinkt werden, sodass der Leser durch Klicken auf Links von einer Passage zur nächsten gelangt.
+- **Verlinkung**: Links zwischen Passagen werden durch das Einfügen von doppelten eckigen Klammern um den Text erstellt, z.B. `[[Gehe nach rechts]]`.
+- **Veröffentlichen**: Die fertigen Geschichten können als HTML-Datei exportiert und im Web veröffentlicht oder offline gelesen werden.
 
 
 
+### 🧑‍🏫 Wozu wird es in der Lehre genutzt?
+Twine kann im Bildungsbereich auf vielfältige Weise eingesetzt werden, z.B.:
 
-# 📂 Was ist das für ein Programm?
+- **Erstellung interaktiver Lehrmaterialien**: Dozierende können komplexe Themen in interaktive Geschichten verpacken, die den Lernenden helfen, durch eigenständiges Erkunden zu lernen.
+- **Simulationen und Szenarien**: Studierende können verschiedene Szenarien durchspielen, z.B. in der Medizin, Wirtschaft oder Sozialwissenschaften, um ein tieferes Verständnis für die Materie zu entwickeln.
+- **Kreatives Schreiben**: Studierende können ihre Kreativität im Schreiben und Gestalten interaktiver Geschichten ausleben.
 
-![Canva-Logo](https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_logo..png?20230702045656)
+- **Einfach zu erlernen**: Twine erfordert keine Programmierkenntnisse und bietet eine benutzerfreundliche Oberfläche, die leicht zu bedienen ist.
+- **Interaktivität**: Durch die Erstellung von Hypertext-Geschichten können Studierende interaktive und immersive Lernumgebungen erkunden.
+- **Kreativität fördern**: Studierende können ihre Kreativität einsetzen, um eigene Geschichten und Szenarien zu entwickeln, was das Verständnis und die Anwendung von Lerninhalten vertieft.
+- **Flexibilität**: Twine kann für eine Vielzahl von Fächern und Themen verwendet werden, von Literatur und Geschichte bis hin zu Informatik und Naturwissenschaften.
+
+**Einsatzmöglichkeiten in der Lehre**
+
+1. **Interaktive Fallstudien**:
+   - Erstellen Sie Fallstudien, bei denen Studierende Entscheidungen treffen müssen, die den Verlauf der Geschichte beeinflussen. Dies kann dazu beitragen, kritisches Denken und Problemlösungsfähigkeiten zu fördern.
+
+2. **Simulationsspiele**:
+   - Entwickeln Sie Simulationen von realen Szenarien, wie z.B. betriebswirtschaftliche Entscheidungen oder medizinische Notfälle, um praktische Fähigkeiten zu vermitteln.
+
+3. **Geschichtsprojekte**:
+   - Lassen Sie Studierende historische Ereignisse nacherzählen, wobei sie verschiedene Entscheidungen und deren Konsequenzen erkunden können.
+
+4. **Sprachunterricht**:
+   - Nutzen Sie Twine, um interaktive Dialoge und Sprachübungen zu erstellen, die das Lernen von Fremdsprachen unterstützen.
+
+5. **Mathematische Probleme**:
+   - Erstellen Sie interaktive mathematische Probleme und Rätsel, bei denen Studierende durch das Lösen von Aufgaben den Verlauf der Geschichte beeinflussen.
+
+**Beispiel für ein Twine-Projekt**
+
+```twine
+:: Start
+Willkommen zu Ihrer ersten Twine-Geschichte! Sie stehen vor zwei Türen. Welche wählen Sie?
+
+[[Tür 1|Tür1]]
+[[Tür 2|Tür2]]
+
+:: Tür1
+Sie haben Tür 1 gewählt und finden einen ruhigen Garten. Möchten Sie sich ausruhen oder weitergehen?
+
+[[Ausruhen|Ausruhen]]
+[[Weitergehen|Weiter]]
+
+:: Tür2
+Sie haben Tür 2 gewählt und stehen nun vor einem Labyrinth. Möchten Sie es betreten oder zurückgehen?
+
+[[Betreten|Labyrinth]]
+[[Zurückgehen|Start]]
+
+:: Ausruhen
+Sie ruhen sich im Garten aus und genießen die Stille. Die Geschichte endet hier. 
+
+[[Neustart|Start]]
+
+:: Weiter
+Sie gehen weiter und entdecken ein verborgenes Geheimnis. Die Geschichte endet hier.
+
+[[Neustart|Start]]
+
+:: Labyrinth
+Sie betreten das Labyrinth und finden schließlich den Ausgang. Die Geschichte endet hier.
+
+[[Neustart|Start]]
 
 
-
-# 🧑‍🏫 Wozu wird es in der Lehre genutzt?
-
-# 📀 Wie bedienen ich das Programm (Videoanaleitungen)
+### 📀 + 📖 Wie bedienen ich das Programm (Videoanaleitungen+schriftliche Anleitung)
 
 <div style="width:100%;height:0;padding-bottom:52%;position:relative;"><iframe src="https://giphy.com/embed/ENL5sbMUYeT2L9lDop" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/snl-saturday-night-live-season-48-ENL5sbMUYeT2L9lDop">via GIPHY</a></p>
 
-## 🧑‍🦱Nutzer*innenperspektive
 
+Dieser [Moodle-Selbstlernkurs](https://lms.paedagogika.com/course/view.php?id=87) beinhaltet sowohl Video als auch schriftliche Anleitungen. Bitte mittels Gast anmelden. Das Passwort unter stefan.hierholzer@paedagogika.com erfragen.
 
-# 📖 Wie bedienen ich das Programm (schriftliche Anleitung) 
-
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/WoWm8YzFQJg5i" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cartoons-comics-sea-reading-WoWm8YzFQJg5i">via GIPHY</a></p>
-
-## 🧑‍🦱Nutzer*innenperspektive
-
-
-## ❓FAQ 
+### ❓FAQ 
 <div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
 
+## FAQ zu Twine
+
+<details>
+<summary>Was ist Twine?</summary>
+Twine ist ein kostenloses, Open-Source-Tool zur Erstellung interaktiver Geschichten und Texte. Es ermöglicht Nutzern, ohne Programmierkenntnisse Hypertexte zu erstellen, bei denen Leser durch verschiedene Pfade und Entscheidungen navigieren können.
+</details>
+
+<details>
+<summary>Wie installiere ich Twine?</summary>
+Twine kann direkt von der [offiziellen Webseite](https://twinery.org) heruntergeladen werden. Es ist für Windows, macOS und Linux verfügbar. Alternativ kann Twine auch im Browser genutzt werden, ohne eine Installation durchführen zu müssen.
+</details>
+
+<details>
+<summary>Benötige ich Programmierkenntnisse, um Twine zu nutzen?</summary>
+Nein, Twine erfordert keine Programmierkenntnisse. Die Benutzeroberfläche ist intuitiv und benutzerfreundlich gestaltet. Für fortgeschrittene Funktionen kann jedoch grundlegendes Wissen in HTML, CSS und JavaScript hilfreich sein.
+</details>
+
+<details>
+<summary>Wie erstelle ich eine einfache Geschichte in Twine?</summary>
+1. Öffnen Sie Twine und klicken Sie auf "Erstellen".
+2. Geben Sie Ihrer Geschichte einen Titel.
+3. Klicken Sie auf das "+" Symbol, um einen neuen Passagenknoten zu erstellen.
+4. Geben Sie Ihren Text ein und nutzen Sie doppelte eckige Klammern `[[ ]]`, um Links zu anderen Passagen zu erstellen.
+5. Verbinden Sie Ihre Passagen durch das Einfügen von Links und fügen Sie weitere Knoten hinzu, um Ihre Geschichte zu erweitern.
+</details>
+
+<details>
+<summary>Kann ich Bilder und Multimedia in meine Twine-Geschichte einfügen?</summary>
+Ja, Sie können Bilder, Audio und Video in Ihre Twine-Geschichte einfügen. Dafür benötigen Sie grundlegende HTML-Kenntnisse, um die entsprechenden Tags zu verwenden. Beispielsweise können Sie ein Bild mit `<img src="URL" alt="Beschreibung">` einfügen.
+</details>
+
+<details>
+<summary>Wie speichere und exportiere ich meine Twine-Geschichte?</summary>
+Sie können Ihre Twine-Geschichte speichern, indem Sie auf "Speichern" klicken. Um Ihre Geschichte zu exportieren, wählen Sie "Datei" > "Als HTML-Datei veröffentlichen". Diese Datei kann dann in jedem Webbrowser geöffnet werden.
+</details>
+
+<details>
+<summary>Gibt es Tutorials oder Anleitungen für Twine?</summary>
+Ja, es gibt viele Ressourcen online, darunter die offizielle [Twine-Wiki](https://twinery.org/wiki/), die umfassende Tutorials und Anleitungen bietet. Auch auf Plattformen wie YouTube finden Sie zahlreiche Video-Tutorials.
+</details>
+
+<details>
+<summary>Wie kann Twine in der Lehre eingesetzt werden?</summary>
+Twine kann in der Lehre für die Erstellung interaktiver Fallstudien, Simulationen, Sprachübungen, Geschichtsprojekte und vieles mehr genutzt werden. Es ermöglicht eine interaktive und immersive Lernerfahrung, die das Engagement und Verständnis der Studierenden fördert.
+</details>
 
 
 
-
-# ❣️ Best Practice Beispiel(e)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wx8WU_h2BNU?si=RsLL_6Yhm21Kn8_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-# 📈 Alles ist im Wandel
+### 📈 Alles ist im Wandel
 Alles befindet sich immer im Wandel, dies gilt insbesondere für Updates von Software. Ist dir ein Fehler aufgefallen oder du hast etwas was sich verndert hat und dies soll eingearbeitet werden- Toll!! Dann melde dich bitte bei:
 
 >stefan.hierholzer@paedagogika.com
