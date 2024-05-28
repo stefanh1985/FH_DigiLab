@@ -622,17 +622,118 @@ Info
 
 Der Serverstandort ist in Deutschland, daher unterliegt ONCOO der DSGVO. Es werden keine personenbezogenen Daten erhoben. Die Nutzung erfolgt pseudonymisiert und damit so anonym wie technisch möglich.
 ---
+Mit [Gathertown](https://www.gather.town) lassen sich virtuelle Räume für Veranstaltungen oder Videokonferenzen erstellen und nutzen. Die Teilnehmenden schalten sich als Avatare in die Konferenz ein und können sich mithilfe der Tastatur im Raum bewegen und interagieren. Besonders hervorzuheben ist, dass Video-Chats erst aktiviert werden, wenn sich die Avatare in räumlicher Nähe zueinander befinden.
+
+*Datenschutz-Hinweise*
+
+Der Serverstandort befindet sich in den USA, und der Anbieter erhebt und speichert personenbezogene Daten. Im schulischen Kontext sollte die Einwilligung der Eltern eingeholt werden und nur anonymisierte Accounts verwendet werden. Außerdem sind die allgemeinen Richtlinien zur Nutzung digitaler Geräte und Anwendungen zu beachten.
+
+Weitere Informationen:
+
+    Webbasierte und App-basierte Nutzung (iOS, Android)
+    Kostenfreie Basisversion für bis zu 25 Nutzende gleichzeitig, erweiterte Funktionen im kostenpflichtigen Abomodell
+    Registrierung erforderlich: E-Mail oder Google-Account (für Lehrkräfte)
 
 
 
 
 ## Tools zur Lernstandserhebung
+[PINGO](https://trypingo.com/de/) ist ein Quiz- und Umfrage-Tool, das die Interaktion mit Lernenden, insbesondere in großen Veranstaltungen wie Vorlesungen, fördert. Lernende können PINGO nutzen, um direkt Fragen an die Vortragenden zu stellen. Lehrende haben die Möglichkeit, eigene Fragen für ihre Lehrveranstaltungen oder den Unterricht vorzubereiten. Dadurch können Umfragen erstellt werden, an denen die Lernenden mit mobilen Endgeräten teilnehmen und so sofort Feedback zu ihrem Lernfortschritt erhalten.
+
+Info
+
+    webbasiert
+    appbasiert: iOS
+    kostenfrei
+    Registrierung: E-Mail (für Lehrkräfte)
+
+
+*Hinweise zum Datenschutz*
+
+Die Website erhebt und speichert personenbezogene Daten bei der Registrierung. Bei der Nutzung im schulischen Kontext sind die allgemeinen Richtlinien zur Nutzung digitaler Geräte und Anwendungen zu beachten.
+---
+[Plickers](https://get.plickers.com/) ist ein Werkzeug für digitale Quizrunden, bei dem nur die Lehrperson ein digitales Endgerät benötigt. Über einen Lehrendenaccount können eine Klassenliste mit den Namen der Schülerinnen und ein Quiz mit Multiple-Choice-Fragen erstellt werden. Die Fragen werden dann per Beamer auf eine Wand projiziert. Die Lernenden geben ihre Antworten mithilfe eines ausgedruckten Barcodes ab, dessen vier Seiten die Antwortmöglichkeiten (a, b, c, d) darstellen. Die Lehrperson scannt die Barcodes mit einem mobilen Endgerät ein, wodurch die Antworten der Schülerinnen erkannt und zugeordnet werden. Die Auswertung erfolgt automatisch in der App.
+
+Info:
+
+    webbasiert
+    appbasiert für iOS, iPadOS, Android
+    kostenfreie Basisversion für Lehrende (Sets mit bis zu 5 Fragen), erweiterte Funktionen im kostenpflichtigen Abomodell (PlickersPro)
+    Registrierung für Lehrkräfte über E-Mail, Google-Account, Apple-ID
+
+*Hinweise zum Datenschutz*
+
+Der Serverstandort liegt in den USA, jedoch erfordert die Nutzung des Tools aus Schülerinnensicht keine Registrierung mit personenbezogenen Daten. Beim Erstellen von Klassenlisten sollten Pseudonyme für die Schülerinnen verwendet werden. Zudem ist darauf zu achten, dass die Gesichter der Schüler*innen beim Einscannen der QR-Codes verdeckt sind. Allgemeine Hinweise zur Nutzung digitaler Geräte und Anwendungen im Schulkontext sollten beachtet werden.
+---
+[ONCOO](https://www.oncoo.de/) wurde am Fachseminar für Informatik in Osnabrück entwickelt und bietet einen digitalen Werkzeugkasten mit bewährten Unterrichtsmethoden aus dem kooperativen Lernen. Zu den Funktionen gehören eine digitale Kartenabfrage, ein Helfersystem, ein Lerntempoduett, eine Placemat und eine Zielscheibe zur Meinungsumfrage. Die Lernenden greifen per Code auf das Online-Tool zu, um ihre Antworten einzugeben, zusammenzuarbeiten und sich gegenseitig zu unterstützen. Die Lehrkraft sieht die Eingaben in Echtzeit visualisiert und kann sie zur Veranschaulichung und Strukturierung weiter bearbeiten.
+
+Eigenschaften:
+
+    Web-basiert
+    Open Source
+    Kostenlos
+    Keine Registrierung erforderlich
+
+
+*Datenschutzhinweise*
+
+Der Serverstandort befindet sich in Deutschland, wodurch ONCOO der DSGVO unterliegt. Es werden keine personenbezogenen Daten erhoben. Die Nutzung erfolgt pseudonymisiert und somit so anonym wie technisch möglich
 
 ## Tools zur Meinung erfagen und Feedback geben
+[AnswerGarden](https://answergarden.ch/) ist ein Tool zum schnellen und anonymen Sammeln von kurzen Antworten, Ideen und Rückmeldungen. Die eingegeben Begriffe erscheinen in Echtzeit in Form einer Wortwolke. Die Form der zulässigen Antworten (Mehrfachnennung, einmalige Nennung etc.) kann in den Einstellungen bestimmt werden. Die Lernenden gelangen über den angegebenen Link oder QR-Code zur Sammlung. Für die anschließende Weiterbearbeitung kann die Wortwolke in Tools wie Tagxedo oder Wordle exportiert werden.
+Info
+
+    webbasiert
+    appbasiert: iPadOS (nur zur Teilnahme)
+    kostenfrei (Webversion), kostenpflichtig (Appversion für das iPad)
+    keine Registrierung notwendig
+  
+*Hinweise zum Datenschutz*
+
+Answergarden ist ein Angebot des niederländischen Unternehmens CreativeHeroes. Zwar liegt der Serverstandort außerhalb Europas, jedoch erfordert das Tool keine Registrierung mit personenbezogenen Daten. Bei der Anwendung im Schulkontext sind die allgemeinen Angaben zur Nutzung digitaler Geräte und Anwendungen zu beachten
+
 
 ## Tools zur Mindmaperstellung
+[Coogle](https://coggle.it/) ist ein innovatives Tool zur gemeinsamen Erstellung von Mindmaps. Es ist sowohl als App als auch als webbasierte Version verfügbar. Nutzer können verschiedene Textfelder erstellen, anordnen und verknüpfen, sowie Bilder einfügen und Farben anpassen. Die Zusammenarbeit erfolgt in Echtzeit, inklusive der Möglichkeit, Kommentare zu hinterlassen und über einen Chat Absprachen zu treffen. Fertige Mindmaps können als Bild- oder PDF-Datei heruntergeladen und dauerhaft gespeichert werden.
+
+Info:
+
+    Plattformen: Webbasiert, App (iOS, iPadOS, Android)
+    Versionen: Kostenfreie Basisversion (max. 3 private Mindmaps), erweiterte Funktionen im kostenpflichtigen Abomodell
+    Registrierung: Notwendig mit Microsoft-, Google- oder Apple-Account (für Lehrer*innen)
+
+
+*Hinweise zum Datenschutz*
+
+Die Server befinden sich in Irland und es werden personenbezogene Daten vom Anbieter erhoben und gespeichert. Der Anbieter versichert, dass keine Daten weitergegeben oder an Dritte verkauft werden. Im schulischen Kontext sind die allgemeinen Richtlinien zur Nutzung digitaler Geräte und Anwendungen zu beachten.
+---
+[Mind-Map-Online](https://mind-map-online.de/) ist ein Tool zur kollaborativen Erstellung von Mindmaps. Mit der App oder webbasierten Version lassen sich verschiedene Textfelder erstellen, anordnen, verknüpfen, Bilder einfügen und Farben anpassen. Dabei ist die Zusammenarbeit in Echtzeit möglich: Es können Kommentare angefügt und Absprachen via Chat geführt werden. Die erstellte Mindmap kann schließlich als Bild- oder PDF-Datei heruntergeladen und somit dauerhaft gespeichert werden.
+
+Info
+
+    webbasiert
+    appbasiert: iOS, iPadOS, Android
+    kostenfreie Basisversion (max. 3 private Mindmaps), erweiterte Funktionen im kostenpflichtigen Abomodell
+    Registrierung: Microsoft-, Google- oder Apple-Account notwendig (Lehrer*innen)
+ 
+
+*Hinweise zum Datenschutz*
+
+Der Serverstandort liegt in Deutschland und es werden personenbezogene Daten vom Anbieter erhoben und gespeichert. Laut Anbieter werden jedoch keinerlei Daten weitergegeben oder an Dritte verkauft. Im Schulkontext sind die allgemeinen Angaben zur Nutzung digitaler Geräte und Anwendungen zu beachten.
+
 
 ## Tools zur Notiz- und Arbeitsblatterstellung
+[Tutory](https://www.tutory.de/) ist eine webbasierte Plattform, die im Baukastensystem das Erstellen von Arbeitsblättern ermöglicht. Der benutzerfreundliche Editor bietet zahlreiche Gestaltungselemente und eine umfangreiche Bilddatenbank mit frei lizenzierten Bildern, die eine rechtssichere Erstellung von Arbeitsblättern und Aufgaben erleichtern. Zudem können eigene Materialien unter eine CC-Lizenz gestellt und somit als OER von anderen Nutzer*innen verwendet oder weiterbearbeitet werden.
 
+Informationen:
+
+    Webbasiert
+    Kostenfreie Basisversion: Bis zu 6 gespeicherte Materialien, eingeschränkte Nutzung der Schriftarten. Erweiterte Funktionen im kostenpflichtigen Abomodell (auch Schullizenz verfügbar)
+    Registrierung: E-Mail (für Lehrer*innen)
+   
+
+*Hinweise zum Datenschutz*
+
+Die Server befinden sich in Deutschland, wodurch der Anbieter zur Einhaltung der DSGVO verpflichtet ist. Bei der Registrierung werden personenbezogene Daten erhoben. Die alleinige Nutzung der Webseite ist ohne Angabe personenbezogener Daten möglich.
 
 
